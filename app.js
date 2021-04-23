@@ -29,7 +29,7 @@ payload=    {
     d: {
         token:token, 
         intents:513, 
-        channel_id: "830396909385547819",
+        channel_id: "",
         properties: {
 
             $os:'windows',
